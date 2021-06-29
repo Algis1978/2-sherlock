@@ -3,7 +3,7 @@
 # Apie
 
 Namų darbas nr. 2 BIT Javascript mokymuose (pradžios data: 2021 m. birželio 21 d.);<br>
-Publikuota: https://algis1978.github.io/Sherlock/
+Publikuota: [Namų darbas nr. 2: „Sherlock“](https://algis1978.github.io/2-sherlock/)
 
 # Mokymų detalės:
 
@@ -25,5 +25,5 @@ Algirdas Navickas
 
 # Autorius
 
-[Algirdas Navickas](https://github.com/algis1978), [Namų darbas nr. 2: „Sherlock“](https://algis1978.github.io/Sherlock/)
+[Algirdas Navickas](https://github.com/algis1978) 
 
