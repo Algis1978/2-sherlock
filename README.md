@@ -1,29 +1,29 @@
-﻿# Namų darbas "Sherlock"
+﻿# Namų darbas „Sherlock“
 
-## Apie
+# Apie
 
 Namų darbas nr. 2 BIT „Javascript mokymuose“ (pradžios data: 2021 m. birželio 21 d.);<br>
 Publikuota: https://algis1978.github.io/Sherlock/
 
-## Mokymų detalės:
+# Mokymų detalės:
 
-*Organizactorius:
-* [baltijos technologijų institutas](https://bit.lt/)
-
-
-*Pavadinimas:
-* [Javascript mokymai](https://bit.lt/studijos/javascript-studijos/)
+* Organizactorius:
+** [Baltijos technologijų institutas](https://bit.lt/)
 
 
-*Trukmė:
-* 22 savaitės
+* Pavadinimas:
+** [Javascript mokymai](https://bit.lt/studijos/javascript-studijos/)
 
-*Mokinys:
-* Algirdas Navickas
-## Namų darbo tikslai
+
+* Trukmė:
+** 22 savaitės
+
+* Mokinys:
+** Algirdas Navickas
+# Namų darbo tikslai
 - Sukurti paprastą HTML puslapį
 
-## Autorius
+# Autorius
 
 [Algirdas Navickas](https://github.com/algis1978)| [Homework No2: "Sherlock"](https://algis1978.github.io/Sherlock/)
 
