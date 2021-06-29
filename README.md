@@ -2,8 +2,8 @@
 
 ## Apie
 
-Namų darbas nr. 2 BIT „Javascript mokymuose“ (pradžios data: 2021 m. birželio 21 d.);
-Site published at: https://algis1978.github.io/Sherlock/
+Namų darbas nr. 2 BIT „Javascript mokymuose“ (pradžios data: 2021 m. birželio 21 d.);<br>
+Publikuota: https://algis1978.github.io/Sherlock/
 
 ## Mokymų detalės:
 
