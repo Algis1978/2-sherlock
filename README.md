@@ -8,22 +8,22 @@ Publikuota: https://algis1978.github.io/Sherlock/
 # Mokymų detalės:
 
 * Organizactorius:
-** [Baltijos technologijų institutas](https://bit.lt/)
+[Baltijos technologijų institutas](https://bit.lt/)
 
 
 * Pavadinimas:
-** [Javascript mokymai](https://bit.lt/studijos/javascript-studijos/)
+[Javascript mokymai](https://bit.lt/studijos/javascript-studijos/)
 
 
 * Trukmė:
-** 22 savaitės
+22 savaitės
 
 * Mokinys:
-** Algirdas Navickas
+Algirdas Navickas
 # Namų darbo tikslai
 - Sukurti paprastą HTML puslapį
 
 # Autorius
 
-[Algirdas Navickas](https://github.com/algis1978)| [Homework No2: "Sherlock"](https://algis1978.github.io/Sherlock/)
+[Algirdas Navickas](https://github.com/algis1978), [Homework No2: "Sherlock"](https://algis1978.github.io/Sherlock/)
 
